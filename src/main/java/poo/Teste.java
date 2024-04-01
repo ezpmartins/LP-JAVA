@@ -1,4 +1,4 @@
-public class xTeste {
+public class Teste {
     public static void main(String[] args) {
 
         //Instaciando um Objeto = Criando um objeto

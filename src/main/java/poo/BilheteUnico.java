@@ -5,7 +5,7 @@ public class BilheteUnico {
     Double saldo;
     String codigo;
 
-    // Métodos = Comportamentos
+    // Métodos = Comportaments
 
     void carregar(Double valorRecarga) {
         if (valorRecarga <= 0) {
